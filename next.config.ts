@@ -7,8 +7,8 @@ const nextConfig = {
     unoptimized: true, // GitHub Pagesでは画像最適化が使えないため
   },
   // リポジトリ名がルートパスでない場合（例: username.github.io/repo-name）
-  // basePath を設定する必要があります
-  // basePath: "/UtatanPortal", // あなたのリポジトリ名に置き換えてください
+  basePath: "/UtatanPortal", // あなたのリポジトリ名に置き換えてください
+  assetPrefix: "/UtatanPortal", // リポジトリ名と同じ値を設定
 };
 
 module.exports = nextConfig;
