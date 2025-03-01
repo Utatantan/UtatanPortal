@@ -1,0 +1,37 @@
+[
+  {
+    "title": "AIの進化と社会への影響",
+    "url": "https://note.com/example/ai-evolution",
+    "source": "note",
+    "date": "2025-02-18",
+    "tags": ["エッセイ", "技術", "AI"]
+  },
+  {
+    "title": "最新の機械学習アルゴリズム",
+    "url": "https://scholar.google.com/example/ml-algorithms",
+    "source": "google_scholar",
+    "date": "2025-02-10",
+    "tags": ["機械学習", "制御工学", "AI"]
+  },
+  {
+    "title": "プログラミング言語の選び方",
+    "url": "https://note.com/example/programming-languages",
+    "source": "note",
+    "date": "2025-01-25",
+    "tags": ["技術", "プログラミング"]
+  },
+  {
+    "title": "ディープラーニングの最前線",
+    "url": "https://scholar.google.com/example/deep-learning-frontiers",
+    "source": "google_scholar",
+    "date": "2025-01-15",
+    "tags": ["機械学習", "ディープラーニング", "AI"]
+  },
+  {
+    "title": "効率的な時間管理のコツ",
+    "url": "https://note.com/example/time-management",
+    "source": "note",
+    "date": "2025-01-05",
+    "tags": ["エッセイ", "生産性"]
+  }
+]
